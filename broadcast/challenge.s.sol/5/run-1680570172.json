@@ -1,0 +1,51 @@
+{
+  "transactions": [
+    {
+      "hash": "0x3e635e0aefbb064b8e4a5cbb97696151b6f7872afa09cb351d9f7fb1bdb48722",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x15ADC668CE0Ece42616F395C3841B0c580b6a603",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/0NDSxzseU0ySAzFA1p28L1QqtQ7LiyWq",
+      "transaction": {
+        "type": "0x02",
+        "from": "0x9ce29ba0c9680561e2eb21b8776a98f13786b2e3",
+        "to": "0x15adc668ce0ece42616f395c3841b0c580b6a603",
+        "gas": "0x2599b",
+        "value": "0x0",
+        "data": "0xa524436a",
+        "nonce": "0x59",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [
+    {
+      "transactionHash": "0x3e635e0aefbb064b8e4a5cbb97696151b6f7872afa09cb351d9f7fb1bdb48722",
+      "transactionIndex": "0x9",
+      "blockHash": "0x2ed7681ccf78e84d6362ae6b0b3670d9cd914f04c2f803e084aa169449fe3d66",
+      "blockNumber": "0x85d051",
+      "from": "0x9CE29Ba0c9680561e2EB21B8776a98f13786B2e3",
+      "to": "0x15ADC668CE0Ece42616F395C3841B0c580b6a603",
+      "cumulativeGasUsed": "0x58e2b1",
+      "gasUsed": "0x19b5b",
+      "contractAddress": null,
+      "logs": [],
+      "status": "0x1",
+      "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "type": "0x2",
+      "effectiveGasPrice": "0x259c34a24"
+    }
+  ],
+  "libraries": [],
+  "pending": [],
+  "path": "/Users/uchennaokolo/Desktop/ctf/ctf_task/broadcast/challenge.s.sol/5/run-latest.json",
+  "returns": {},
+  "timestamp": 1680570172,
+  "chain": 5,
+  "multi": false,
+  "commit": "91f3f86"
+}

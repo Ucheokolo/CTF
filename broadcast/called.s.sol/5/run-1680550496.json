@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "hash": "0x25507234a37b17d1a0a2e9025ec37a73a1acd1b840f94d818f2339e4631d44ae",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xD1d4441187E3BFA38798FAD442416D307cF7E337",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/0NDSxzseU0ySAzFA1p28L1QqtQ7LiyWq",
+      "transaction": {
+        "type": "0x02",
+        "from": "0x9ce29ba0c9680561e2eb21b8776a98f13786b2e3",
+        "to": "0xd1d4441187e3bfa38798fad442416d307cf7e337",
+        "gas": "0x90c3",
+        "value": "0x0",
+        "data": "0x6549c4ef",
+        "nonce": "0x57",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x25507234a37b17d1a0a2e9025ec37a73a1acd1b840f94d818f2339e4631d44ae"
+  ],
+  "path": "/Users/uchennaokolo/Desktop/ctf/ctf_task/broadcast/called.s.sol/5/run-latest.json",
+  "returns": {},
+  "timestamp": 1680550496,
+  "chain": 5,
+  "multi": false,
+  "commit": "91f3f86"
+}
